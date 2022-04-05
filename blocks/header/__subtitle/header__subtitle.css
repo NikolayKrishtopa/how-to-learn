@@ -1,0 +1,12 @@
+.header__subtitle {
+  font-family: inherit;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  position: absolute;
+  left: 64px;
+  bottom: 30px;
+  max-width: 388px;
+  color: #000;
+  z-index: 3;
+}
