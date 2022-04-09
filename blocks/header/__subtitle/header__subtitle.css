@@ -1,4 +1,6 @@
 .header__subtitle {
+  padding: 0;
+  margin: 0;
   font-family: inherit;
   line-height: 25px;
   font-size: 18px;
